@@ -1,0 +1,12 @@
+/* Write A Program To Display Two Characters */
+class CharDemo
+{
+public static void main ( String args [ ] )
+{
+char ch1 , ch2 ;
+ch1 = 97 ;
+ch2 = 'A' ;
+System . out . print ( "\nValues Of ch1 And ch2 Are : " ) ;
+System . out . println ( ch1 + " , " + ch2 ) ;
+}
+} 
